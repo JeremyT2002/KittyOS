@@ -1,0 +1,4 @@
+# Everything in this tree must keep Unix (LF) line endings.  A Makefile recipe
+# terminated with CRLF makes the shell see a stray carriage return and fail with
+# errors that point nowhere useful.
+* text=auto eol=lf
